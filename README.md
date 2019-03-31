@@ -1,0 +1,2 @@
+# ALQUITRAN
+Dapp game which run on the Ethereum blockchain. The player must hunt 25 individuals distributed in a pyramid of 7 levels, and send them to an island where they must create a new civilization with some help from the hunters. A good amount of non-fungible tokens is generated throughout the game. The environment has a futuristic aesthetic and the whole puzzle is based on anarchist philosophy. The player must think about ambushes, weakenings, make decisions and solve mathematical problems to hunt each of the 25 targets.
